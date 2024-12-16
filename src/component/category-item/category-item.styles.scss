@@ -9,7 +9,10 @@
     border: 1px solid black;
     margin: 0 7.5px 15px;
     overflow: hidden;
-  
+    
+    .category-body-container h2{
+      text-transform: capitalize;
+    }
     &:hover {
       cursor: pointer;
   
